@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { bannerHomeStyles } from "./../assets/dummyStyles";
 import Navbar from "./Navbar";
-import video from "D:/WatchSite/frontend/src/assets/bannervideo.mp4";
+import video from "../assets/bannervideo.mp4";
 import BL1 from "../assets/BL1.png";
 import BM1 from "../assets/BM1.png";
 import BR1 from "../assets/BR1.png";
